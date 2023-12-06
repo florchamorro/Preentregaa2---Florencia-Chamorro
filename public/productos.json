@@ -1,0 +1,67 @@
+[
+    {
+      "id": "1",
+      "nombre": "Ange ou Demon",
+      "precio": "147000",
+      "category": "Mujeres",
+      "img": "https://d3cdlnm7te7ky2.cloudfront.net/media/mf_webp/jpg/media/catalog/product/cache/9e28fa26315772756f8479e03afc40d0/P/R/PR25895BI24529_RP90603_ANGE_OU_DEMON_LE_SECRET_EDP_SZ1.webp",
+      "stock": "100",
+      "descripcion": "Perfume de mujer floral"
+    },
+    {
+      "id": "2",
+      "nombre": "Alien",
+      "precio": "200000",
+      "category": "Mujeres",
+      "img": "https://http2.mlstatic.com/D_Q_NP_950650-MLU70020764353_062023-O.webp",
+      "stock": "500",
+      "descripcion": "Perfume de mujer aroma suave"
+    },
+    {
+      "id": "3",
+      "nombre": "Black Opium",
+      "precio": "120000",
+      "category": "Mujeres",
+      "img": "https://getthelookar.vtexassets.com/arquivos/ids/178277-1600-auto?v=638350612855670000&width=1600&height=auto&aspect=true",
+      "stock": "220",
+      "descripcion": "Perfume de mujer dulce"
+    },
+    {
+      "id": "4",
+      "nombre": "Scandal",
+      "precio": "340000",
+      "category": "Hombres",
+      "img": "https://cdn.fragrancenet.com/images/photos/900x900/415334.jpg",
+      "stock": "130",
+      "descripcion": "Perfume de hombre floral"
+    },
+    {
+      "id": "5",
+      "nombre": "Toy Boy",
+      "precio": "107000",
+      "category": "Hombres",
+      "img": "https://rougeb2car.vtexassets.com/arquivos/ids/168440-1200-auto?v=637783062552530000&width=1200&height=auto&aspect=true",
+      "stock": "50",
+      "descripcion": "Perfume de hombre aroma suave"
+    },
+    {
+      "id": "6",
+      "nombre": "Colonia Paco",
+      "precio": "5300",
+      "category": "Niños",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_862325-MLA42985341531_082020-O.webp",
+      "stock": "540",
+      "descripcion": "Colonia para niños"
+    },
+  
+    {
+      "id": "7",
+      "nombre": "Mujercitas",
+      "precio": "6000",
+      "category": "Niños",
+      "img": "https://farmaciasdelpueblo.vteximg.com.br/arquivos/ids/157826/Imagen.jpg?v=637262082988330000",
+      "stock": "230",
+      "descripcion": "Colonia para niña"
+    }
+  ]
+  
